@@ -1,0 +1,107 @@
+    @media screen and (max-width: 992px) {
+        header .menu-desktop,
+        header .btn-contato {
+            display: none;
+        }
+        header .btn-abri-menu {
+            display: block;
+        }
+    }
+    
+    @media screen and (max-width: 759px) {
+
+        header .btn-abri-menu {
+            display: block;
+        }
+        .hero-site .txt-hero h1 {
+            font-size: 2.6em;
+            line-height: 45px;
+        }
+        .hero-site .txt-hero p {
+            font-size: 18px;
+        }
+        .hero-site .txt-hero p span {
+            display: inline;
+        }
+        .hero-site button {
+            font-size: 18px;
+        }
+        /* Final da Hero */
+        .portfolio .itens-container {
+            flex-direction: column;
+        }
+        .portfolio .itens-container .interface .img-itens img {
+            width: 100%;
+        }
+        .portfolio .itens-container .txt-itens p {
+            margin: 8px 90px 30px 90px;
+        }
+        .portfolio .itens-container .item-1 {
+            order: 1;
+        }
+        .portfolio .itens-container .item-2 {
+            order: 0;
+        }
+        /* Final de Portfólio */
+        .txt-contato,
+        .icons-contato {
+            display: block;
+            width: 100%;
+        }
+        .contato .txt-contato h3 {
+            font-size: 2em;
+            line-height: 40px;
+        }
+        .contato .txt-contato p {
+            font-size: 22px;
+            margin-bottom: 22px;
+        }
+        .contato .icons-contato button {
+            width: 100%;
+            font-size: 22px;
+        }
+        .contato .icons-contato button i {
+            font-size: 24px;
+        }
+        /* Final de Contato */
+        .sobre h3 {
+            font-size: 2.3em;
+            line-height: 40px;
+        }
+        .sobre-p p,
+        .sobre p {
+            margin: 20px 0;
+            font-size: 24px;
+            font-weight: 400;
+        }
+        /* Final sobre mim */
+        .txt-funciona,
+        .instrucoes {
+            display: block;
+            width: 100%;
+        }
+        .function .txt-funciona {
+            position: static;
+        }
+        .function .txt-funciona h3 {
+            font-size: 3em;
+            line-height: 50px;
+        }
+        .instrucoes .instru-box {
+            flex-direction: column;
+            font-size: 22px;
+            text-align: center;
+        }
+        .instrucoes .instru-box img {
+            max-width: 100px;
+        }
+        /* Final de como funciona */
+        .especialidades .especialidades-box p {
+            font-size: 22px;
+        }
+        /* Final de especialidades */
+        footer .bottom-footer p {
+            color: #fff;
+            margin-top: 26px;
+        }
+    }
