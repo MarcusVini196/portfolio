@@ -17,5 +17,3 @@
         echo("Houve um erro ao enviar o email!");
     }
 
-
-?>
