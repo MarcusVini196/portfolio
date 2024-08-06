@@ -107,8 +107,12 @@
             font-size: 22px;
         }
         /* Final de especialidades */
+        footer {
+            width: 100%;
+        }
         footer .bottom-footer p {
             color: #fff;
             margin-top: 26px;
+            width: 100%;
         }
     }
