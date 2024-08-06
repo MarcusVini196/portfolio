@@ -28,6 +28,7 @@
         }
         .hero-site img{
             width:100%;
+            background-image: url('../img/Portfolio-Desenvolvedor-Web.png');
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center;
