@@ -26,6 +26,8 @@
         .hero-site button {
             font-size: 18px;
         }
+        .hero-site img{
+            width:100vw;
         /* Final da Hero */
         .portfolio .itens-container {
             flex-direction: column;
