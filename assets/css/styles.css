@@ -281,47 +281,11 @@ section.portfolio {
 
 
 /* Estilo botões de contatos */
-section.contato {
-    background-color: #fff;
+
+section.contato-2{
+    background-color: #999999;
     padding: 80px 0;
-    background-image: url(../img/natureza.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.container {
-    max-width: 1280px;
-    margin: 0 auto;
-    margin-top: 120px;
-}
-
-form {
-    background-color: transparent;
-    max-width: 500px;
-    height: 450px;
-    padding: 40px;
-    border-radius: 22px; 
-}
-
-form h1 {
-    text-align: center;
-    font-size: 34px;
-    color: #fff ;
-}
-
-form p {
-    text-align: center;
-    margin: 20px 0;
-    color: #fff;
-}
-
-section.contato{
-    background-color: #e3e3e3;
-    padding: 80px 0;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 
 .txt-contato, .icons-contato {
