@@ -28,6 +28,9 @@
         }
         .hero-site img{
             width:100%;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
         }
         /* Final da Hero */
         .portfolio .itens-container {
