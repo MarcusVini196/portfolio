@@ -244,10 +244,6 @@ section.hero-site {
     transform: scale(1.05);
 }
 
-.hero-site img {
-    width: 100vw;
-}
-
 /* Estilo do portfolio */
 
 section.portfolio {
