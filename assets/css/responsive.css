@@ -27,7 +27,7 @@
             font-size: 18px;
         }
         .hero-site img{
-            width:100vw;
+            width:100%;
         }
         /* Final da Hero */
         .portfolio .itens-container {
